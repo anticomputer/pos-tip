@@ -69,6 +69,11 @@
 
 
 ;;; History:
+;; 2023-07-21
+;;         * Various bug fixes
+;;         * Settings were changed to use defcustom.
+;;         * Version 0.4.7
+;;
 ;; 2013-07-16  P. Kalinowski
 ;;         * Adjusted `pos-tip-show' to correctly set tooltip text foreground
 ;;           color when using custom color themes.
